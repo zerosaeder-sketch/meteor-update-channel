@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "channel": "stable",
+  "version": "3.0-N3F-U2",
+  "update_id": "remote-update-autocheck-ui-001",
+  "title": "Remote Update Auto-Check UI",
+  "bundle_url": "https://raw.githubusercontent.com/zerosaeder-sketch/meteor-update-channel/main/updates/METEOR_DEV_UPDATE_REMOTE_AUTOCHECK_UI.zip",
+  "bundle_sha256": "c92a1b3c4855b5de61f75e32301bccd5b4a13c2ed90b96cfa78517235dfb8e4a",
+  "published_at": "2026-10-16T10:52:22.260557+00:00",
+  "notes": []
+}
